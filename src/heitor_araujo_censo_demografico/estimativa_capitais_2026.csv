@@ -1,0 +1,28 @@
+uf,cod_uf,cod_munic,nome_munic,populacao_estimada,regiao
+RO,11,205,Porto Velho,520379,Norte
+AC,12,401,Rio Branco,390058,Norte
+AM,13,2603,Manaus,2327101,Norte
+RR,14,100,Boa Vista,500965,Norte
+PA,15,1402,Belém,1396157,Norte
+AP,16,303,Macapá,491987,Norte
+TO,17,21000,Palmas,333154,Norte
+MA,21,11300,São Luís,1090229,Nordeste
+PI,22,11001,Teresina,908012,Nordeste
+CE,23,4400,Fortaleza,2582360,Nordeste
+RN,24,8102,Natal,783196,Nordeste
+PB,25,7507,João Pessoa,906093,Nordeste
+PE,26,11606,Recife,1588983,Nordeste
+AL,27,4302,Maceió,995134,Nordeste
+SE,28,308,Aracaju,623328,Nordeste
+BA,29,27408,Salvador,2559945,Nordeste
+MG,31,6200,Belo Horizonte,2415451,Sudeste
+ES,32,5309,Vitória,343935,Sudeste
+RJ,33,4557,Rio de Janeiro,6731133,Sudeste
+SP,35,50308,São Paulo,11911337,Sudeste
+PR,41,6902,Curitiba,1832183,Sul
+SC,42,5407,Florianópolis,59837,Sul
+RS,43,14902,Porto Alegre,1388791,Sul
+MS,50,2704,Campo Grande,970843,Centro-Oeste
+MT,51,3403,Cuiabá,698917,Centro-Oeste
+GO,52,8707,Goiânia,1511709,Centro-Oeste
+DF,53,108,Brasília,3009996,Centro-Oeste
